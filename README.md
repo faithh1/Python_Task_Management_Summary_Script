@@ -54,7 +54,9 @@ The script manages a collection of tasks, identifies their completion status, ge
 ## 📊 Sample Output
 
 [view python script](https://colab.research.google.com/drive/1K7nKEN9hn4JzNjndkziaTDLKC0MNYwVf#scrollTo=T7giySpDz7gk&line=33&uniqifier=1))
+
 ![Python Task Summary Terminal](Python_codes)
+
 ![Python Task Summary Terminal](Python_codes2)
 
 TASK SUMMARY
