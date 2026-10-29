@@ -1,12 +1,11 @@
 # Python_Task_Management_Summary_Script
---
 
 ## 📌 Project Overview
 
 This project was developed as part of my AI and Automation course to practice Python programming fundamentals and understand how automation can simplify repetitive tasks.
 
 The script manages a collection of tasks, identifies their completion status, generates a summary of pending and completed tasks, and automatically saves the report to a text file.
---
+
 
 ## 🎯 Project Objectives
 
@@ -20,7 +19,7 @@ The script manages a collection of tasks, identifies their completion status, ge
 
 - Generate and save a formatted summary using Python file handling.
 
---
+
 
 ## 🛠️ Technologies and Concepts Used
 
@@ -35,7 +34,7 @@ The script manages a collection of tasks, identifies their completion status, ge
 - File Handling: Writing output to a .txt file
 
 - Testing: Running the script and verifying the output
---
+
 
 ## ⚙️ How It Works
 
@@ -51,7 +50,6 @@ The script manages a collection of tasks, identifies their completion status, ge
 
 - The same summary is written to task_summary.txt.
 
---
 
 ## 📊 Sample Output
 
@@ -65,7 +63,6 @@ Total tasks: 6
 Pending tasks: 3
 Done tasks: 3
 Summary saved to task_summary.txt
---
 
 ## 💡 Key Learning Outcomes
 
@@ -81,7 +78,7 @@ Through this project, I gained practical experience in:
 
 - Testing a Python script and verifying its output.
 
---
+
 ## 📝 Conclusion
 
 This project represents a practical step in my AI and Automation learning journey. It demonstrates how basic Python programming concepts can be combined to automate task classification, summary generation, and report writing.
