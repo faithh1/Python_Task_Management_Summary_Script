@@ -62,8 +62,11 @@ The script manages a collection of tasks, identifies their completion status, ge
 TASK SUMMARY
 ============
 Total tasks: 6
+
 Pending tasks: 3
+
 Done tasks: 3
+
 Summary saved to task_summary.txt
 
 ## 💡 Key Learning Outcomes
